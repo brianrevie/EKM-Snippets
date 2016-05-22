@@ -1,0 +1,6 @@
+{
+  "name": "ekmsnippets",
+  "tagline": "Brackets Snippets extension.",
+  "body": "# Brackets Extention\r\nEKM Ecommerce Tags can now be dynamically called through the brackets interface. quickly insert EKM tags into your project with highly efficient short codes and key commands. This will really speed up your workflow.\r\n\r\nExtension is available in the[Brackets extension registry.](https://brackets-registry.aboutweb.com/)\r\n\r\n# Usage\r\nIcon on the right toolbar shows you what snippets are available. Click any snippet to begin inserting.\r\nCtrl-Alt-Space to insert the snippet. (Cmd-Alt-Space on Mac).\r\n\r\ntype a trigger followed by parameters (optional), then hit Ctrl-Alt-V or simply use the tag explorer and insert your tag this way!\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
