@@ -1,5 +1,5 @@
-# ekmsnippets
-Brackets Snippets extension.
+# EKM Snippets
+Brackets IDE extension.
 
 ***
 
